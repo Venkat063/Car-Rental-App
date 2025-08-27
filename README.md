@@ -1,3 +1,7 @@
+<img width="1919" height="1033" alt="Screenshot 2025-08-27 190934" src="https://github.com/user-attachments/assets/60807bae-4d35-42f5-9cd2-15caa2fb62d7" />
+
+
+
 python -m venv env
 source env/bin/activate  # On Windows use `env\Scripts\activate`
 
