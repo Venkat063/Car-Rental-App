@@ -1,0 +1,3 @@
+[submodule "CarDealerWeb-Django/accounts"]
+    path = CarDealerWeb-Django/accounts
+    url = <URL-to-the-submodule-repo>
