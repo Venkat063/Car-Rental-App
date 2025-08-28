@@ -1,3 +1,6 @@
 [submodule "CarDealerWeb-Django/accounts"]
     path = CarDealerWeb-Django/accounts
     url = <URL-to-the-submodule-repo>
+
+git rm --cached CarDealerWeb-Django/accounts
+
